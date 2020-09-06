@@ -1,6 +1,6 @@
 ### Hi, I'm Devansh Shah 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh2805&theme=tokyonight&show_icons=true&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh2805&theme=tokyonight&show_icons=true&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
