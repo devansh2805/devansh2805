@@ -7,5 +7,3 @@
 - 🤔 I’m looking for help with **Machine Learning**
 - 📫 How to reach me: **devansh.ds@somaiya.edu**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh2805&theme=tokyonight&show_icons=true)
-
