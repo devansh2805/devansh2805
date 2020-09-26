@@ -8,4 +8,4 @@
 - 📫 How to reach me: **devansh.ds@somaiya.edu**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=devansh2805&theme=tokyonight&show_icons=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh2805&langs_count=8&theme=tokyonight&show_icons=true) 
