@@ -9,4 +9,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh2805&theme=tokyonight&show_icons=true)   
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?devansh2805" frameborder="0"></iframe>
